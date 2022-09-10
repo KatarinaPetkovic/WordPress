@@ -1,0 +1,1 @@
+Ǜc<?php exit; ?>a:1:{s:7:"content";a:1:{s:25:"_pll_strings_translations";a:1:{i:0;s:250:"a:3:{i:0;a:2:{i:0;s:62:"Copyright [copyright] [current_year] <p>Katarina Petković</p>";i:1;s:62:"Copyright [copyright] [current_year] <p>Katarina Petković</p>";}i:1;a:2:{i:0;s:6:"F j, Y";i:1;s:6:"F j, Y";}i:2;a:2:{i:0;s:5:"g:i a";i:1;s:5:"g:i a";}}";}}}
