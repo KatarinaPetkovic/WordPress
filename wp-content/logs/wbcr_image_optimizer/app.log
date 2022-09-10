@@ -1,0 +1,320 @@
+
+10-08-2022 07:41:18 [kveljkovic.wppsbootcamp.com][info] Parent plugin start installation!
+10-08-2022 07:41:18 [kveljkovic.wppsbootcamp.com][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.5.6
+10-08-2022 07:41:18 [kveljkovic.wppsbootcamp.com][info] Parent plugin installation complete!
+-------------------------------
+10-08-2022 07:41:36 [kveljkovic.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/kveljkovic/public_html/digitel/wp-content/uploads/wio_backup)
+-------------------------------
+10-08-2022 07:41:58 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:41:58 [kveljkovic.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/kveljkovic/public_html/digitel/wp-content/uploads/wio_backup/2022/08)
+10-08-2022 07:41:58 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/logo.png) to a remote server (server_1).
+10-08-2022 07:41:58 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:41:58 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/logo-150x106.png) to a remote server (server_1).
+10-08-2022 07:41:58 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:41:58 [kveljkovic.wppsbootcamp.com][debug] New queue created #1, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;11&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:5081,&quot;final_size&quot;:3723,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:2283,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117318}
+10-08-2022 07:41:58 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 30
+-------------------------------
+10-08-2022 07:41:58 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:41:58 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/cropped-logo.png) to a remote server (server_1).
+10-08-2022 07:41:58 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:41:58 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/cropped-logo-150x106.png) to a remote server (server_1).
+10-08-2022 07:41:58 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:41:58 [kveljkovic.wppsbootcamp.com][debug] New queue created #2, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;12&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:6823,&quot;final_size&quot;:3669,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:4025,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117318}
+10-08-2022 07:41:58 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 29
+-------------------------------
+10-08-2022 07:41:58 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:41:59 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/background-image.png) to a remote server (server_1).
+10-08-2022 07:42:00 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:00 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/background-image-150x150.png) to a remote server (server_1).
+10-08-2022 07:42:00 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:00 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/background-image-300x77.png) to a remote server (server_1).
+10-08-2022 07:42:00 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:00 [kveljkovic.wppsbootcamp.com][debug] New queue created #3, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;37&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:548218,&quot;final_size&quot;:378450,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:455571,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117320}
+10-08-2022 07:42:00 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 28
+-------------------------------
+10-08-2022 07:42:00 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:42:00 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Jenny.png) to a remote server (server_1).
+10-08-2022 07:42:01 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:01 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Jenny-150x150.png) to a remote server (server_1).
+10-08-2022 07:42:01 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:01 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Jenny-223x300.png) to a remote server (server_1).
+10-08-2022 07:42:01 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:01 [kveljkovic.wppsbootcamp.com][debug] New queue created #4, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;39&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:253754,&quot;final_size&quot;:87992,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:126835,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117321}
+10-08-2022 07:42:01 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 27
+-------------------------------
+10-08-2022 07:42:02 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:42:02 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/John.png) to a remote server (server_1).
+10-08-2022 07:42:02 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:02 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/John-150x150.png) to a remote server (server_1).
+10-08-2022 07:42:03 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:03 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/John-223x300.png) to a remote server (server_1).
+10-08-2022 07:42:03 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:03 [kveljkovic.wppsbootcamp.com][debug] New queue created #5, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;40&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:277509,&quot;final_size&quot;:86669,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:138776,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117323}
+10-08-2022 07:42:03 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 26
+-------------------------------
+10-08-2022 07:42:03 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:42:03 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Regula.png) to a remote server (server_1).
+10-08-2022 07:42:03 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:03 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Regula-150x150.png) to a remote server (server_1).
+10-08-2022 07:42:04 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:04 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Regula-223x300.png) to a remote server (server_1).
+10-08-2022 07:42:04 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:04 [kveljkovic.wppsbootcamp.com][debug] New queue created #6, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;41&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:263653,&quot;final_size&quot;:85539,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:130912,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117324}
+10-08-2022 07:42:04 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 25
+-------------------------------
+10-08-2022 07:42:04 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:42:04 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Barbara.png) to a remote server (server_1).
+10-08-2022 07:42:05 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:05 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Barbara-150x150.png) to a remote server (server_1).
+10-08-2022 07:42:05 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:05 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Barbara-223x300.png) to a remote server (server_1).
+10-08-2022 07:42:05 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:05 [kveljkovic.wppsbootcamp.com][debug] New queue created #7, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;42&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:294295,&quot;final_size&quot;:86276,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:147636,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117325}
+10-08-2022 07:42:05 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 24
+-------------------------------
+10-08-2022 07:42:05 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:42:05 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Austria-background-box.png) to a remote server (server_1).
+10-08-2022 07:42:06 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:06 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Austria-background-box-150x150.png) to a remote server (server_1).
+10-08-2022 07:42:06 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:06 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Austria-background-box-300x204.png) to a remote server (server_1).
+10-08-2022 07:42:06 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:06 [kveljkovic.wppsbootcamp.com][debug] New queue created #8, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;49&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:203963,&quot;final_size&quot;:131670,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:157389,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117326}
+10-08-2022 07:42:06 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 23
+-------------------------------
+10-08-2022 07:42:06 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:42:06 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Switzerland-background-box.png) to a remote server (server_1).
+10-08-2022 07:42:06 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:07 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Switzerland-background-box-150x150.png) to a remote server (server_1).
+10-08-2022 07:42:07 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:07 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Switzerland-background-box-300x204.png) to a remote server (server_1).
+10-08-2022 07:42:07 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:07 [kveljkovic.wppsbootcamp.com][debug] New queue created #9, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;50&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:195118,&quot;final_size&quot;:123506,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:154883,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117327}
+10-08-2022 07:42:07 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 22
+-------------------------------
+10-08-2022 07:42:07 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:42:07 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Measuring-station-Greece-image.png) to a remote server (server_1).
+10-08-2022 07:42:08 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:08 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Measuring-station-Greece-image-150x150.png) to a remote server (server_1).
+10-08-2022 07:42:08 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:08 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Measuring-station-Greece-image-300x227.png) to a remote server (server_1).
+10-08-2022 07:42:08 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:08 [kveljkovic.wppsbootcamp.com][debug] New queue created #10, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;64&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:363338,&quot;final_size&quot;:129700,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:215912,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117328}
+10-08-2022 07:42:08 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 21
+-------------------------------
+10-08-2022 07:42:08 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:42:08 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/speaker-1-v2.jpg) to a remote server (server_1).
+10-08-2022 07:42:09 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:09 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/speaker-1-v2-150x150.jpg) to a remote server (server_1).
+10-08-2022 07:42:09 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:09 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/speaker-1-v2-300x300.jpg) to a remote server (server_1).
+10-08-2022 07:42:09 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:09 [kveljkovic.wppsbootcamp.com][debug] New queue created #11, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;72&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:60342,&quot;final_size&quot;:60342,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:45777,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117329}
+10-08-2022 07:42:09 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 20
+-------------------------------
+10-08-2022 07:42:09 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:42:09 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/team-1.jpg) to a remote server (server_1).
+10-08-2022 07:42:09 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:09 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/team-1-150x150.jpg) to a remote server (server_1).
+10-08-2022 07:42:09 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:09 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/team-1-300x300.jpg) to a remote server (server_1).
+10-08-2022 07:42:10 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:10 [kveljkovic.wppsbootcamp.com][debug] New queue created #12, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;73&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:46159,&quot;final_size&quot;:46159,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:33143,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117330}
+10-08-2022 07:42:10 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 19
+-------------------------------
+10-08-2022 07:42:10 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:42:10 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/workers-image.png) to a remote server (server_1).
+10-08-2022 07:42:11 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:11 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/workers-image-150x150.png) to a remote server (server_1).
+10-08-2022 07:42:11 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:11 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/workers-image-300x190.png) to a remote server (server_1).
+10-08-2022 07:42:11 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:11 [kveljkovic.wppsbootcamp.com][debug] New queue created #13, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;75&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:929011,&quot;final_size&quot;:256730,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:745085,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117331}
+10-08-2022 07:42:11 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 18
+-------------------------------
+10-08-2022 07:42:12 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:42:12 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/john-doe.jpg) to a remote server (server_1).
+10-08-2022 07:42:12 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:12 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/john-doe-150x150.jpg) to a remote server (server_1).
+10-08-2022 07:42:12 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:12 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/john-doe-300x300.jpg) to a remote server (server_1).
+10-08-2022 07:42:12 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:12 [kveljkovic.wppsbootcamp.com][debug] New queue created #14, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;76&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:49324,&quot;final_size&quot;:37981,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:33065,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117332}
+10-08-2022 07:42:12 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 17
+-------------------------------
+10-08-2022 07:42:12 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:42:12 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/workers-image-1.png) to a remote server (server_1).
+10-08-2022 07:42:13 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:13 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/workers-image-1-150x150.png) to a remote server (server_1).
+10-08-2022 07:42:13 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:13 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/workers-image-1-300x190.png) to a remote server (server_1).
+10-08-2022 07:42:14 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:14 [kveljkovic.wppsbootcamp.com][debug] New queue created #15, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;120&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:929011,&quot;final_size&quot;:256730,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:745085,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117334}
+10-08-2022 07:42:14 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 16
+-------------------------------
+10-08-2022 07:42:14 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:42:14 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/image-2.png) to a remote server (server_1).
+10-08-2022 07:42:15 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:15 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/image-2-150x150.png) to a remote server (server_1).
+10-08-2022 07:42:15 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:15 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/image-2-238x300.png) to a remote server (server_1).
+10-08-2022 07:42:15 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:15 [kveljkovic.wppsbootcamp.com][debug] New queue created #16, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;151&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:239109,&quot;final_size&quot;:94431,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:145722,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117335}
+10-08-2022 07:42:15 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 15
+-------------------------------
+10-08-2022 07:42:15 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:42:15 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/image-3.png) to a remote server (server_1).
+10-08-2022 07:42:16 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:16 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/image-3-150x150.png) to a remote server (server_1).
+10-08-2022 07:42:16 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:16 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/image-3-238x300.png) to a remote server (server_1).
+10-08-2022 07:42:16 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:16 [kveljkovic.wppsbootcamp.com][debug] New queue created #17, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;152&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:230697,&quot;final_size&quot;:98493,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:138600,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117336}
+10-08-2022 07:42:16 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 14
+-------------------------------
+10-08-2022 07:42:17 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:42:17 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Low-Volume-sampler-image.png) to a remote server (server_1).
+10-08-2022 07:42:17 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:17 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Low-Volume-sampler-image-150x150.png) to a remote server (server_1).
+10-08-2022 07:42:18 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:18 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Low-Volume-sampler-image-282x300.png) to a remote server (server_1).
+10-08-2022 07:42:18 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:18 [kveljkovic.wppsbootcamp.com][debug] New queue created #18, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;153&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:321883,&quot;final_size&quot;:124845,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:212855,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117338}
+10-08-2022 07:42:18 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 13
+-------------------------------
+10-08-2022 07:42:18 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:42:18 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Wet-Only-Sampler-image.png) to a remote server (server_1).
+10-08-2022 07:42:18 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:18 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Wet-Only-Sampler-image-150x150.png) to a remote server (server_1).
+10-08-2022 07:42:19 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:19 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Wet-Only-Sampler-image-282x300.png) to a remote server (server_1).
+10-08-2022 07:42:19 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:19 [kveljkovic.wppsbootcamp.com][debug] New queue created #19, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;154&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:272088,&quot;final_size&quot;:130285,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:178424,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117339}
+10-08-2022 07:42:19 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 12
+-------------------------------
+10-08-2022 07:42:19 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:42:19 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/High-Volume-sampler-image.png) to a remote server (server_1).
+10-08-2022 07:42:19 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:20 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/High-Volume-sampler-image-150x150.png) to a remote server (server_1).
+10-08-2022 07:42:20 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:20 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/High-Volume-sampler-image-282x300.png) to a remote server (server_1).
+10-08-2022 07:42:20 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:20 [kveljkovic.wppsbootcamp.com][debug] New queue created #20, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;155&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:364554,&quot;final_size&quot;:126955,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:243590,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117340}
+10-08-2022 07:42:20 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 11
+-------------------------------
+10-08-2022 07:42:20 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:42:20 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/image-1.png) to a remote server (server_1).
+10-08-2022 07:42:20 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:20 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/image-1-150x150.png) to a remote server (server_1).
+10-08-2022 07:42:20 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:20 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/image-1-238x300.png) to a remote server (server_1).
+10-08-2022 07:42:21 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:21 [kveljkovic.wppsbootcamp.com][debug] New queue created #21, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;156&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:239503,&quot;final_size&quot;:98236,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:145091,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117341}
+10-08-2022 07:42:21 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 10
+-------------------------------
+10-08-2022 07:42:21 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:42:21 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/image-2-1.png) to a remote server (server_1).
+10-08-2022 07:42:21 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:21 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/image-2-1-150x150.png) to a remote server (server_1).
+10-08-2022 07:42:21 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:21 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/image-2-1-255x300.png) to a remote server (server_1).
+10-08-2022 07:42:22 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:22 [kveljkovic.wppsbootcamp.com][debug] New queue created #22, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;186&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:341402,&quot;final_size&quot;:107197,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:194138,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117342}
+10-08-2022 07:42:22 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+10-08-2022 07:42:22 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:42:22 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/image-3-1.png) to a remote server (server_1).
+10-08-2022 07:42:22 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:22 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/image-3-1-150x150.png) to a remote server (server_1).
+10-08-2022 07:42:22 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:22 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/image-3-1-255x300.png) to a remote server (server_1).
+10-08-2022 07:42:23 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:23 [kveljkovic.wppsbootcamp.com][debug] New queue created #23, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;187&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:344610,&quot;final_size&quot;:102189,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:196750,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117343}
+10-08-2022 07:42:23 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+10-08-2022 07:42:23 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:42:23 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/image-4.png) to a remote server (server_1).
+10-08-2022 07:42:23 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:23 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/image-4-150x150.png) to a remote server (server_1).
+10-08-2022 07:42:23 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:23 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/image-4-255x300.png) to a remote server (server_1).
+10-08-2022 07:42:24 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:24 [kveljkovic.wppsbootcamp.com][debug] New queue created #24, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;188&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:157295,&quot;final_size&quot;:100243,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:43565,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117344}
+10-08-2022 07:42:24 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+10-08-2022 07:42:24 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:42:24 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/image-5.png) to a remote server (server_1).
+10-08-2022 07:42:25 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:25 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/image-5-150x150.png) to a remote server (server_1).
+10-08-2022 07:42:25 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:25 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/image-5-255x300.png) to a remote server (server_1).
+10-08-2022 07:42:25 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:25 [kveljkovic.wppsbootcamp.com][debug] New queue created #25, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;189&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:436511,&quot;final_size&quot;:124967,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:243429,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117345}
+10-08-2022 07:42:25 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+10-08-2022 07:42:25 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:42:25 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/image-6.png) to a remote server (server_1).
+10-08-2022 07:42:26 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:26 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/image-6-150x150.png) to a remote server (server_1).
+10-08-2022 07:42:26 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:26 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/image-6-255x300.png) to a remote server (server_1).
+10-08-2022 07:42:26 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:27 [kveljkovic.wppsbootcamp.com][debug] New queue created #26, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;190&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:406940,&quot;final_size&quot;:141873,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:229498,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117347}
+10-08-2022 07:42:27 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+10-08-2022 07:42:27 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:42:27 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Measuring-station-Greece-image-1.png) to a remote server (server_1).
+10-08-2022 07:42:27 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:27 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Measuring-station-Greece-image-1-150x150.png) to a remote server (server_1).
+10-08-2022 07:42:27 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:28 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Measuring-station-Greece-image-1-300x227.png) to a remote server (server_1).
+10-08-2022 07:42:28 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:28 [kveljkovic.wppsbootcamp.com][debug] New queue created #27, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;191&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:363338,&quot;final_size&quot;:126271,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:215912,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117348}
+10-08-2022 07:42:28 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+10-08-2022 07:42:28 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:42:28 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/NILU-Measuring-station-image.png) to a remote server (server_1).
+10-08-2022 07:42:28 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:28 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/NILU-Measuring-station-image-150x150.png) to a remote server (server_1).
+10-08-2022 07:42:29 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:29 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/NILU-Measuring-station-image-300x227.png) to a remote server (server_1).
+10-08-2022 07:42:29 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:29 [kveljkovic.wppsbootcamp.com][debug] New queue created #28, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;192&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:440543,&quot;final_size&quot;:130193,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:277532,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117349}
+10-08-2022 07:42:29 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+10-08-2022 07:42:29 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:42:30 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Arctic-Century-campaign-image.png) to a remote server (server_1).
+10-08-2022 07:42:30 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:30 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Arctic-Century-campaign-image-150x150.png) to a remote server (server_1).
+10-08-2022 07:42:30 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:30 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Arctic-Century-campaign-image-300x227.png) to a remote server (server_1).
+10-08-2022 07:42:31 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:31 [kveljkovic.wppsbootcamp.com][debug] New queue created #29, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;193&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:397302,&quot;final_size&quot;:107030,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:242545,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117351}
+10-08-2022 07:42:31 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+10-08-2022 07:42:31 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:42:31 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/image-1-1.png) to a remote server (server_1).
+10-08-2022 07:42:32 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:32 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/image-1-1-150x150.png) to a remote server (server_1).
+10-08-2022 07:42:32 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:32 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/image-1-1-255x300.png) to a remote server (server_1).
+10-08-2022 07:42:32 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:32 [kveljkovic.wppsbootcamp.com][debug] New queue created #30, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;194&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:301666,&quot;final_size&quot;:110944,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:164904,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117352}
+10-08-2022 07:42:32 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+10-08-2022 07:42:32 [kveljkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-08-2022 07:42:33 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Hero-image.jpg) to a remote server (server_1).
+10-08-2022 07:42:33 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:33 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Hero-image-150x150.jpg) to a remote server (server_1).
+10-08-2022 07:42:33 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:33 [kveljkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/kveljkovic/public_html/digitel/wp-content/uploads/2022/08/Hero-image-300x94.jpg) to a remote server (server_1).
+10-08-2022 07:42:33 [kveljkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-08-2022 07:42:33 [kveljkovic.wppsbootcamp.com][debug] New queue created #31, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;263&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:219701,&quot;final_size&quot;:111724,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:207358,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660117353}
+10-08-2022 07:42:33 [kveljkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
+10-08-2022 07:43:55 [kveljkovic.wppsbootcamp.com][info] Parent plugin start deactivation!
+10-08-2022 07:43:55 [kveljkovic.wppsbootcamp.com][info] Parent plugin deactivation complete!
+-------------------------------
