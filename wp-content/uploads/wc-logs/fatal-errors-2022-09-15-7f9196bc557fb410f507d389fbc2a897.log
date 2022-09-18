@@ -1,0 +1,19 @@
+2022-09-15T18:38:50+00:00 CRITICAL Uncaught TypeError: WC_Admin_Assets::is_order_meta_box_screen(): Argument #1 ($screen_id) must be of type string, null given, called in /home/kveljkovic/public_html/projekat/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-assets.php on line 277 and defined in /home/kveljkovic/public_html/projekat/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-assets.php:503
+Stack trace:
+#0 /home/kveljkovic/public_html/projekat/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-assets.php(277): WC_Admin_Assets->is_order_meta_box_screen(NULL)
+#1 /home/kveljkovic/public_html/projekat/wp-includes/class-wp-hook.php(307): WC_Admin_Assets->admin_scripts('')
+#2 /home/kveljkovic/public_html/projekat/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 /home/kveljkovic/public_html/projekat/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /home/kveljkovic/public_html/projekat/wp-content/plugins/give/src/Onboarding/Wizard/templates/index.php(18): do_action('admin_enqueue_s...')
+#5 /home/kveljkovic/public_html/projekat/wp-content/plugins/give/src/Onboarding/Wizard/Page.php(97): include_once('/home/kveljkovi...')
+#6 /home/kveljkovic/public_html/projekat/wp-content/plugins/give/src/Onboarding/Wizard/Page.php(83): Give\Onboarding\Wizard\Page->render_page()
+#7 [internal function]: Give\Onboarding\Wizard\Page->setup_wizard('')
+#8 /home/kveljkovic/public_html/projekat/wp-content/plugins/give/src/Helpers/Hooks.php(43): call_user_func_array(Array, Array)
+#9 /home/kveljkovic/public_html/projekat/wp-includes/class-wp-hook.php(307): Give\Helpers\Hooks::Give\Helpers\{closure}('')
+#10 /home/kveljkovic/public_html/projekat/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#11 /home/kveljkovic/public_html/projekat/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#12 /home/kveljkovic/public_html/projekat/wp-admin/admin.php(175): do_action('admin_init')
+#13 /home/kveljkovic/public_html/projekat/wp-admin/index.php(10): require_once('/home/kveljkovi...')
+#14 {main}
+  thrown in /home/kveljkovic/public_html/projekat/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-assets.php on line 503
+

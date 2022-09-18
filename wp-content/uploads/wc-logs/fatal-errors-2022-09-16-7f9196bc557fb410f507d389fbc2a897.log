@@ -1,0 +1,26 @@
+2022-09-16T10:20:05+00:00 CRITICAL syntax error, unexpected token ";" in /home/kveljkovic/public_html/projekat/wp-content/themes/astra-child/functions.php on line 164
+
+2022-09-16T10:20:13+00:00 CRITICAL syntax error, unexpected token ";" in /home/kveljkovic/public_html/projekat/wp-content/themes/astra-child/functions.php on line 164
+
+2022-09-16T10:38:09+00:00 CRITICAL syntax error, unexpected end of file in /home/kveljkovic/public_html/projekat/wp-content/themes/astra-child/functions.php on line 240
+
+2022-09-16T17:03:45+00:00 CRITICAL Cannot redeclare change_proctocheck() (previously declared in /home/kveljkovic/public_html/projekat/wp-content/themes/astra-child/functions.php:235) in /home/kveljkovic/public_html/projekat/wp-content/themes/astra-child/functions.php on line 245
+
+2022-09-16T17:04:01+00:00 CRITICAL Cannot redeclare change_proctocheck() (previously declared in /home/kveljkovic/public_html/projekat/wp-content/themes/astra-child/functions.php:235) in /home/kveljkovic/public_html/projekat/wp-content/themes/astra-child/functions.php on line 245
+
+2022-09-16T17:04:17+00:00 CRITICAL Cannot redeclare change_proctocheck() (previously declared in /home/kveljkovic/public_html/projekat/wp-content/themes/astra-child/functions.php:235) in /home/kveljkovic/public_html/projekat/wp-content/themes/astra-child/functions.php on line 245
+
+2022-09-16T17:04:58+00:00 CRITICAL Cannot redeclare change_proctocheck() (previously declared in /home/kveljkovic/public_html/projekat/wp-content/themes/astra-child/functions.php:235) in /home/kveljkovic/public_html/projekat/wp-content/themes/astra-child/functions.php on line 245
+
+2022-09-16T17:05:01+00:00 CRITICAL Cannot redeclare change_proctocheck() (previously declared in /home/kveljkovic/public_html/projekat/wp-content/themes/astra-child/functions.php:235) in /home/kveljkovic/public_html/projekat/wp-content/themes/astra-child/functions.php on line 245
+
+2022-09-16T17:05:02+00:00 CRITICAL Cannot redeclare change_proctocheck() (previously declared in /home/kveljkovic/public_html/projekat/wp-content/themes/astra-child/functions.php:235) in /home/kveljkovic/public_html/projekat/wp-content/themes/astra-child/functions.php on line 245
+
+2022-09-16T17:05:07+00:00 CRITICAL Cannot redeclare change_proctocheck() (previously declared in /home/kveljkovic/public_html/projekat/wp-content/themes/astra-child/functions.php:235) in /home/kveljkovic/public_html/projekat/wp-content/themes/astra-child/functions.php on line 245
+
+2022-09-16T17:05:18+00:00 CRITICAL Cannot redeclare change_proctocheck() (previously declared in /home/kveljkovic/public_html/projekat/wp-content/themes/astra-child/functions.php:235) in /home/kveljkovic/public_html/projekat/wp-content/themes/astra-child/functions.php on line 245
+
+2022-09-16T17:05:23+00:00 CRITICAL Cannot redeclare change_proctocheck() (previously declared in /home/kveljkovic/public_html/projekat/wp-content/themes/astra-child/functions.php:235) in /home/kveljkovic/public_html/projekat/wp-content/themes/astra-child/functions.php on line 245
+
+2022-09-16T17:05:34+00:00 CRITICAL Cannot redeclare change_proctocheck() (previously declared in /home/kveljkovic/public_html/projekat/wp-content/themes/astra-child/functions.php:235) in /home/kveljkovic/public_html/projekat/wp-content/themes/astra-child/functions.php on line 245
+
